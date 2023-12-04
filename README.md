@@ -1,4 +1,4 @@
-# Beginer-project-on-world-population-stats
+# Introductory Project on World Population Data
 
 <h2>Description</h2>
 Introduction to data analytics in Jupyter Notebook using python and Pandas. Involved learning about Jupyter Notebook, installation, and some very basic data analysis. Note: project is WIP (not completed).
